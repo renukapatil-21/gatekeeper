@@ -1,13 +1,13 @@
 # gatekeeper
 Gateway using Java Spring Boot 
 
-# 3 services created
+### 3 services created
 - Smart Gateway service -> Live traffic
 - API management service -> Configurations
 - Analytics service -> Observation reporting
 
 
-# Roles on API management service:
+### Roles on API management service:
 1. Platform Admin
   - Create an organization
   - Create its first administration
