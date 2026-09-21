@@ -7,7 +7,7 @@ Gateway using Java Spring Boot
 - Analytics service -> Observation reporting
 
 
-Roles on API management service:
+# Roles on API management service:
 1. Platform Admin
   - Create an organization
   - Create its first administration
