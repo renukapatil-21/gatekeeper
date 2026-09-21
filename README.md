@@ -15,9 +15,9 @@ Roles on API management service:
   - View organizations and infrastructure
 
 2. Tenant Admin
-   - Login to Gatekeeper Management
-   - Create and manage routes for exactly one organization
-   - Configure methods, timeouts, rate limits, idempotency, and header rules
+- Login to Gatekeeper Management
+- Create and manage routes for exactly one organization
+- Configure methods, timeouts, rate limits, idempotency, and header rules
 
 3. Gateway Service
-   - It can read configuration but cannot change it
+- It can read configuration but cannot change it
