@@ -9,10 +9,10 @@ Gateway using Java Spring Boot
 
 Roles on API management service:
 1. Platform Admin
- - create an organization
- - create its first administration
- - activate or suspend it
- - view organizations and infrastructure
+  - Create an organization
+  - Create its first administration
+  - Activate or suspend it
+  - View organizations and infrastructure
 
 2. Tenant Admin
    - Login to Gatekeeper Management
